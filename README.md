@@ -1,4 +1,8 @@
-# 💫 About Me:
+# Hi there, I'm EL Mehdi  👋 
+
+
+## I'm a Developer !!
+
 I’m a web developer with experience in both front-end and back-end development. 
 <br>🌱 I’m currently learning everything 🤣 
 <br>I also build full-stack applications using the MERN stack (MongoDB, Express, React, Node.js).
