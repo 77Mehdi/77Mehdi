@@ -20,7 +20,11 @@ I’m a web developer with experience in both front-end and back-end development
 &nbsp;&nbsp;
 [![website](./linkedin-dark.svg)](https://linkedin.com/in/elmehdi-elgheryb)
 
+<br/><br/>
+
 # 💻 Tech Stack:
+
+<br/><br/>
 
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -54,23 +58,24 @@ I’m a web developer with experience in both front-end and back-end development
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=77Mehdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=77Mehdi&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=77Mehdi&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=77Mehdi&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77Mehdi&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=77Mehdi&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=77Mehdi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=77Mehdi&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=77Mehdi&theme=tokyo-night&hide_border=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=77Mehdi&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=77Mehdi&label=Profile%20Views&color=6A5ACD&icon=github&pretty=true"/>
+  <img src="https://komarev.com/ghpvc/?username=77Mehdi&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+
 
