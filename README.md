@@ -10,7 +10,7 @@ I’m a web developer with experience in both front-end and back-end development
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elmehdi-elgheryb) 
 
-Shack My Portfolio :     [![website](./img/globe-light.svg)](https://my-portfolio-one-psi-76.vercel.app/)
+Shack My Portfolio :     [![website](./globe-light.svg)](https://my-portfolio-one-psi-76.vercel.app/)
 
 
 # 💻 Tech Stack:
