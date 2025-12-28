@@ -1,15 +1,13 @@
-# Hi there, I'm EL Mehdi  👋 
+# Hi there, I'm EL Mehdi El Gheryb  👋 
 
 
-## I'm a Developer !!
+## I'm A Full-Stack Web Developer !!
 
-I’m a web developer with experience in both front-end and back-end development. 
-<br>🌱 I’m currently learning everything 🤣 
-<br>I also build full-stack applications using the MERN stack (MongoDB, Express, React, Node.js).
-<br> I enjoy creating responsive, efficient, and user-friendly applications. 
-<br>Whether it's designing the UI or building robust APIs, 
-<br>I’m passionate about delivering high-quality web solutions.
-
+🌱 I’m currently learning everything 🤣<br>
+🌱 Exploring performance optimization and scalable backend systems <br>
+💬 Happy to help with JavaScript, React, MERN, Spring Boot, Laravel, and databases <br>
+👨‍💻 All my work is available on my GitHub repositories <br>
+⚡ Fun fact: I enjoy turning complex problems into clean, user-friendly interfaces 🚀
 
 ## 🌐 Socials:
 
@@ -20,7 +18,7 @@ I’m a web developer with experience in both front-end and back-end development
 &nbsp;&nbsp;
 [![website](./linkedin-dark.svg)](https://linkedin.com/in/elmehdi-elgheryb)
 
-<br/><br/>
+
 # 💻 Tech Stack:
 
 
