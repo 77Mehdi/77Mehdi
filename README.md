@@ -50,8 +50,9 @@ I’m a web developer with experience in both front-end and back-end development
 <img align="left" alt="Power BI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
 
 
+<br/><br/>
 
-# 📊 GitHub Stats:
+##📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=77Mehdi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=77Mehdi&theme=dark&hide_border=false)<br/>
