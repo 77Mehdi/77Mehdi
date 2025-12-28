@@ -47,18 +47,30 @@ I’m a web developer with experience in both front-end and back-end development
 <img align="left" alt="GitHub" width="30px" src="https://cdn.simpleicons.org/github/181717" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Stripe" width="30px" src="https://cdn.simpleicons.org/stripe/635BFF" />
-<img align="left" alt="Power BI" width="30px" src="https://cdn.simpleicons.org/powerbi/F2C811" />
 
 
 <br/><br/>
 
-##📊 GitHub Stats:
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=77Mehdi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=77Mehdi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=77Mehdi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=77Mehdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=77Mehdi&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=77Mehdi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77Mehdi&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=77Mehdi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=77Mehdi&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=77Mehdi&label=Profile%20Views&color=6A5ACD&icon=github&pretty=true"/>
+</p>
+
