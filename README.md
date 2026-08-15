@@ -14,7 +14,7 @@
 
 ### Connect with me:   
 
-[![website](./globe-dark.svg)](https://my-portfolio-one-psi-76.vercel.app/)
+[![website](./globe-dark.svg)](https://portfolue-wlxa.vercel.app/)
 &nbsp;&nbsp;
 [![website](./linkedin-dark.svg)](https://linkedin.com/in/elmehdi-elgheryb)
 
@@ -58,17 +58,12 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=77Mehdi&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=77Mehdi&theme=dark&hide_border=true" height="165"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=77Mehdi&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=77Mehdi&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+
 
 
