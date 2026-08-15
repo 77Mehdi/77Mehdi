@@ -60,9 +60,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=77Mehdi&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
 
 
 
